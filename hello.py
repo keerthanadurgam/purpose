@@ -1,5 +1,5 @@
-a=int(input("enter a"))
-b=a/2
+c=int(input("enter c"))
+d=c/2
 h=int(input("enter height"))
-j=b*h
+j=d*h
 print(j)
